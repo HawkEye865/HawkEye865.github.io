@@ -13,5 +13,5 @@
   - Javascript
   - PHP
   
- ### Skills:
+ ### Work Experience:
  Made an android app for a client and 2 years of university.
