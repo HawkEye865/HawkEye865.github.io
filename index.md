@@ -12,6 +12,8 @@
   - C++
   - Javascript
   - PHP
+  - Ruby on Rails
+  - Three.js
 
 ### Work Experience:
 - Made an android app for a client and 2 years of university.
